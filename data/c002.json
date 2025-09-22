@@ -1,0 +1,11 @@
+{
+    "id": "2",
+    "name": "Samuel Jackson",
+	"email": "customer2@leeps.com",
+    "phone": "+6591234002",
+	"address1": "Bukit Batok ave 1",
+	"address2": "Blk 456 #01-456",
+	"postal": "123002",
+	"creditcard": "4321432143210002",
+	"instructions": "Leave at doorstep and don't bother me"
+}

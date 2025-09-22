@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "customer_name": "Alicia",
+    "item_name": "Jordan Jumpman",
+	"rating": "4",
+	"post_date": "2025-01-15T00:00:00", 
+	"review_text": "I can't believe that LEEPS had managed to procure my desired item and shipped in pristine condition within 1 month!"
+  },
+  {
+    "id": "2",
+    "customer_name": "Rebecca",
+    "item_name": "Jordan Brooklyn Fleece",
+	"rating": "5",
+	"post_date": "2025-02-15T00:00:00",
+	"review_text": "I highly recommend using LEEPS to get what your wishlist items because they are efficient and affortable"
+  },
+  {
+    "id": "3",
+    "customer_name": "Vanessa",
+    "item_name": "FuelCell Rebel v5",
+	"rating": "4",
+	"post_date": "2025-03-15T00:00:00",
+	"review_text": "First time tried using LEEPS and will definitely come back again. Better than using scalpers."
+  },
+  {
+    "id": "4",
+    "customer_name": "David",
+    "item_name": "HeatGear",
+	"rating": "5",
+	"post_date": "2025-04-15T00:00:00",
+	"review_text": "I am surprised that the listed items are as affortable as purchasing in respective country of goods origin."
+  },  
+  {
+    "id": "5",
+    "customer_name": "Jerome",
+    "item_name": "Adicolor track jacket",
+	"rating": "4",
+	"post_date": "2025-05-15T00:00:00",
+	"review_text": "I managed to get this hard-to-find item using LEEPS on time for my sister's birthday. Thank you LEEPS!"
+  },    
+  {
+    "id": "6",
+    "customer_name": "Angelina",
+    "item_name": "Jordan Jumpman",
+	"rating": "5",
+	"post_date": "2025-06-15T00:00:00",
+	"review_text": "I didn't realise LEEPS existed but so glad I know now because it is so reliable and secure."
+  }  
+]
